@@ -2,13 +2,12 @@
 title: 'Updated My Entire Life '
 date: '2021-02-03T00:16:18-05:00'
 author: librehash
+last_edited: '2021-02-03T05:17:04.305Z'
 ---
-
-
-* What is the core team's current objectives?
-* What was accomplished in the last week?
-* What's next for the core team?
-* Link to any relevant projects
+* Accomplish being the best in the world
+* Better than you plebians
+* Get money and do anything that I want to do. 
+* Be in an unconscious state of mind. Mother fucker. 
 
 ## Changes
 
@@ -26,10 +25,10 @@ Thanks to everyone for contributing!
 
 | # Commits | Name |
 | --- | --- |
-| | |
-| | |
-| | |
-| | |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 
 ## GitHub Milestones
 
